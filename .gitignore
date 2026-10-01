@@ -1,0 +1,18 @@
+# 输出产物
+output/
+*.png
+*.jpg
+*.jpeg
+!docs/*.png
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+.env
+
+# OS
+.DS_Store
+Thumbs.db
